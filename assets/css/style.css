@@ -1,0 +1,12 @@
+p{
+    background: rgb(107, 202, 121);
+    border:3px solid #000;
+    margin: 30px;
+
+    padding: 25px;
+}
+section{
+    border:3px solid tomato;
+    width: 400px;
+    margin: 100px auto;
+}
